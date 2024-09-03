@@ -19,7 +19,7 @@ This Python project uses OpenCV to control the laptop's volume through hand gest
    ```
 2. Connect your webcam and run the script:
    ```bash
-   python volume_control.py
+   python handgesture.py
    ```
 4. Follow the on-screen instructions to control the volume using your hand gestures.
 
